@@ -244,5 +244,9 @@ SELECT [ProductKey]
 ## Dashboard ##
 **_Sales Overview_**
 ![](Sales_Overview.PNG)
+**_Customer Details_**
+![](Customer_Details.PNG)
+**_Product Details_**
+![](Product_details.PNG)
 
 
