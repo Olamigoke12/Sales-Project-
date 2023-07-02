@@ -238,4 +238,7 @@ SELECT [ProductKey]
 | 12/1/2023 | 2000000 |
 
 ## Data Model ##
+**_Snowflakes Schema model_** 
+![](Data_Model.PNG)
 
+## Dashboard ##
