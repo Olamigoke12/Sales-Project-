@@ -242,3 +242,5 @@ SELECT [ProductKey]
 ![](Data_Model.PNG)
 
 ## Dashboard ##
+**_Sales Overview_**
+![](Sales_Overview.PNG)
